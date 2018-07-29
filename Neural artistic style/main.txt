@@ -1,0 +1,1 @@
+python main.py -C E:/python.file/git-Repository/TF--style-transfer-collection/content_src/girl.jpg -S E:/python.file/git-Repository/TF--style-transfer-collection/style_src/sumiao.jpg --pool_method avg
